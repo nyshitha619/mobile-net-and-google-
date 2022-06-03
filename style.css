@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background:lemonchiffon;
+  font-size: 20px;
+}
+
+img {
+  border: solid;
+  border-radius: 10%;
+  width:500px;
+  float: left;
+  margin: 30px;
+}
+
+#bottle_image{
+  height: 300px;
+  width: 100px;
+  float: left;
+  margin: 50px;
+}
+
+#box {
+  margin: 20px;
+  background-color: white;
+  border: gray 5px solid;
+  height: 500px;
+  width: 80%;
+  border-radius: 20px;
+}
+
+.copy_right_footer{
+  color:white;
+  bottom:0;
+  width:100%;
+  background-color: grey;
+  line-height: 3;
+  text-align:center;
+}
+
+ol h5{
+  padding: 13px;
+  
+}
